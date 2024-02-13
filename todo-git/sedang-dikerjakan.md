@@ -2,7 +2,7 @@
 
 ## Git Local
 
-- [ ] 1.1 Mengerjakan _implement project v0.1.0_
+- [x] 1.1 Mengerjakan _implement project v0.1.0_
 - [ ] 1.2 Mengerjakan _base configuration_
 - [ ] 1.3 Mengerjakan _implement feature-a_
 - [ ] 1.4 Mengerjakan _implement feature-b_
