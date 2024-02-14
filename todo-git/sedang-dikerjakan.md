@@ -5,7 +5,7 @@
 - [x] 1.1 Mengerjakan _implement project v0.1.0_
 - [x] 1.2 Mengerjakan _base configuration_
 - [ ] 1.3 Mengerjakan _implement feature-a_
-- x[ ] 1.4 Mengerjakan _implement feature-b_
+- [x] 1.4 Mengerjakan _implement feature-b_
 - [ ] 1.5 Mengerjakan _Merge branch 'feature/a' into develop_
 - [ ] 1.6 Mengerjakan _Merge branch 'feature/b' into develop_
 - [ ] 1.7 Mengerjakan _release feature/a and feature/b_
