@@ -6,9 +6,9 @@
 - [x] 1.2 Mengerjakan _base configuration_
 - [x] 1.3 Mengerjakan _implement feature-a_
 - [x] 1.4 Mengerjakan _implement feature-b_
-- [ ] 1.5 Mengerjakan _Merge branch 'feature/a' into develop_
-- [ ] 1.6 Mengerjakan _Merge branch 'feature/b' into develop_
-- [ ] 1.7 Mengerjakan _release feature/a and feature/b_
+- [x] 1.5 Mengerjakan _Merge branch 'feature/a' into develop_
+- [x] 1.6 Mengerjakan _Merge branch 'feature/b' into develop_
+- [x] 1.7 Mengerjakan _release feature/a and feature/b_
 - [ ] 1.8 Mengerjakan _Merge branch 'release/v0.2.0' into develop_
 - [ ] 1.9 Mengerjakan _Merge branch 'release/v0.2.0'_
 - [ ] 1.10 Mengerjakan _fulfill the empty status in 'Git Local' task_
