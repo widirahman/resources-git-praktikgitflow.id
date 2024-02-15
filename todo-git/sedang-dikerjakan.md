@@ -17,8 +17,8 @@
 
 - [x] 2.1 Mengerjakan _implement feature-c_
 - [x] 2.2 Mengerjakan _Merge branch 'feature/c' into develop_
-- [ ] 2.3 Mengerjakan _implement feature-d_
-- [ ] 2.4 Mengerjakan _Merge branch 'feature/d' into develop_
+- [x] 2.3 Mengerjakan _implement feature-d_
+- [x] 2.4 Mengerjakan _Merge branch 'feature/d' into develop_
 - [ ] 2.5 Mengerjakan _release feature/a and feature/b_
 - [ ] 2.6 Mengerjakan _Merge branch 'release/v0.3.0' into develop_
 - [ ] 2.7 Mengerjakan _Merge branch 'release/v0.3.0'_
