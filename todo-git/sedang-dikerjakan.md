@@ -15,7 +15,7 @@
 
 ## Git Remote
 
-- [ ] 2.1 Mengerjakan _implement feature-c_
+- [x] 2.1 Mengerjakan _implement feature-c_
 - [ ] 2.2 Mengerjakan _Merge branch 'feature/c' into develop_
 - [ ] 2.3 Mengerjakan _implement feature-d_
 - [ ] 2.4 Mengerjakan _Merge branch 'feature/d' into develop_
